@@ -1,0 +1,992 @@
+{
+  "name": "Center",
+  "img": "imgs/titulo.png",
+  "type": "main",
+  "children": [
+    {
+      "name": "HUMANIDADES Y ARTES",
+      "hero": "HUMANIDADES Y ARTES",
+      "img": "imgs/HUMANIDADES Y ARTES.png",
+      "size": 40000,
+      "descripcion": "HUMANIDADES Y ARTES son carreras que est\u00e1n relacionadas con el conocimiento humano y la cultura. Se distinguen de las ciencias sociales en el car\u00e1cter ideogr\u00e1fico - estudio de particularidades sin crear leyes o postulados generales \u2013 de sus m\u00e9todos de investigaci\u00f3n.",
+      "type": "area",
+      "children": [
+        {
+          "hero": "ARTES",
+          "name": "ARTES",
+          "link": "",
+          "img": "imgs/ARTES.png",
+          "descripcion": "ARTES son carreras que est\u00e1n \u00edntimamente ligadas al campo de la creatividad, pues abarca distintos aspectos referentes al patrimonio art\u00edstico y cultural de las sociedades. Elegida por mentes creativas que desean dedicarse al mundo del dise\u00f1o y la producci\u00f3n de productos art\u00edsticos, esta carrera puede abarcar un amplio campo laboral.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "ARTES REPRESENTATIVAS",
+              "name": "ARTES REPRESENTATIVAS",
+              "link": "",
+              "img": "imgs/ARTES REPRESENTATIVAS.png",
+              "descripcion": "Estudian los procesos simb\u00f3licos, las herramientas te\u00f3ricas, t\u00e9cnicas y cr\u00edticas, necesarias para la creaci\u00f3n, la recreaci\u00f3n y la expresi\u00f3n art\u00edstica y para la elaboraci\u00f3n de nuevas interpretaciones de la cultura y nuevas opciones vitales, a trav\u00e9s de las pr\u00e1cticas en artes esc\u00e9nicas, teatro y danza.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ARTES VISUALES",
+              "name": "ARTES VISUALES",
+              "link": "",
+              "img": "imgs/ARTES VISUALES.png",
+              "descripcion": "Son formas de arte cuyas obras son principalmente visuales en naturaleza.\u00a0",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MUSICA",
+              "name": "MUSICA",
+              "link": "",
+              "img": "imgs/MUSICA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "PUBLICIDAD",
+              "name": "PUBLICIDAD",
+              "link": "",
+              "img": "imgs/PUBLICIDAD.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "CIENCIAS DE LA SALUD",
+          "name": "CIENCIAS DE LA SALUD",
+          "link": "",
+          "img": "imgs/CIENCIAS DE LA SALUD.png",
+          "descripcion": "CIENCIAS DE LA SALUD son carreras que pueden poner los conocimientos adecuados para la prevenci\u00f3n de las enfermedades, la erradicaci\u00f3n de enfermedades y el bienestar de un conjunto de personas.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "ENFERMERIA",
+              "name": "ENFERMERIA",
+              "link": "",
+              "img": "imgs/ENFERMERIA.png",
+              "descripcion": "La enfermer\u00eda es la ciencia que se dedica al cuidado y atenci\u00f3n de enfermos y heridos, as\u00ed como a otras tareas de asistencia sanitarias, siguiendo pautas cl\u00ednicas.\u200b La enfermer\u00eda forma parte de las conocidas como ciencias de la salud.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "FISIOTERAPIA",
+              "name": "FISIOTERAPIA",
+              "link": "",
+              "img": "imgs/FISIOTERAPIA.png",
+              "descripcion": "Es una disciplina de la ciencia de la salud que ofrece un tratamiento terap\u00e9utico y de rehabilitaci\u00f3n no farmacol\u00f3gica para diagnosticar, prevenir y tratar s\u00edntomas de m\u00faltiples dolencias, tanto agudas como cr\u00f3nicas, por medio de agentes f\u00edsicos.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "FONOAUDIOLOGIA",
+              "name": "FONOAUDIOLOGIA",
+              "link": "",
+              "img": "imgs/FONOAUDIOLOGIA.png",
+              "descripcion": "La fonoaudiolog\u00eda es aquella disciplina que se ocupa de evaluar, diagnosticar e intervenir en los trastornos de la comunicaci\u00f3n humana, expresados a trav\u00e9s de diferentes patolog\u00edas como puede ser alteraci\u00f3n en la voz, en el habla, lenguaje, en la audici\u00f3n y en cualquier otra funci\u00f3n que implique tanto al habla como al o\u00eddo, tanto de adultos como de ni\u00f1os.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INSTRUMENTACION QUIRURGICA",
+              "name": "INSTRUMENTACION QUIRURGICA",
+              "link": "",
+              "img": "imgs/INSTRUMENTACION QUIRURGICA.png",
+              "descripcion": "Forma profesionales con habilidades en procesos de instrumentaci\u00f3n de cirug\u00edas, aplicando t\u00e9cnicas de asepsia, desinfecci\u00f3n, esterilizaci\u00f3n y bioseguridad para mejorar la condici\u00f3nes de los pacientes.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MEDICINA",
+              "name": "MEDICINA",
+              "link": "",
+              "img": "imgs/MEDICINA.png",
+              "descripcion": "Su objetivo es estudiar teor\u00edas y metodolog\u00edas en campos de la salud y la enfermedad de las personas. Dedicada al cuidado de las personas; diagnostico, prevenci\u00f3n tratamiento a enfermos.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MICROBIOLOGIA",
+              "name": "MICROBIOLOGIA",
+              "link": "",
+              "img": "imgs/MICROBIOLOGIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "NUTRICION Y DIETETICA",
+              "name": "NUTRICION Y DIETETICA",
+              "link": "",
+              "img": "imgs/NUTRICION Y DIETETICA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ODONTOLOGIA",
+              "name": "ODONTOLOGIA",
+              "link": "",
+              "img": "imgs/ODONTOLOGIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "OPTOMETRIA",
+              "name": "OPTOMETRIA",
+              "link": "",
+              "img": "imgs/OPTOMETRIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "TERAPIA RESPIRATORIA",
+              "name": "TERAPIA RESPIRATORIA",
+              "link": "",
+              "img": "imgs/TERAPIA RESPIRATORIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "TERAPIA OCUPACIONAL",
+              "name": "TERAPIA OCUPACIONAL",
+              "link": "",
+              "img": "imgs/TERAPIA OCUPACIONAL.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "CIENCIAS HUMANAS",
+          "name": "CIENCIAS HUMANAS",
+          "link": "",
+          "img": "imgs/CIENCIAS HUMANAS.png",
+          "descripcion": "CIENCIAS HUMANAS son carreras que estudian al ser humano de manera individual o colectiva a trav\u00e9s de sus interrelaciones con sus semejantes y con el medio ambiente dondehabita",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "ANTROPOLOGIA, ARTES LIBERALES",
+              "name": "ANTROPOLOGIA, ARTES LIBERALES",
+              "link": "",
+              "img": "imgs/ANTROPOLOGIA, ARTES LIBERALES.png",
+              "descripcion": "Ciencia que se ocupa de estudiar el origen y desarrollo de toda la gama de la variabilidad humana y los modos de\u00a0comportamientos\u00a0sociales a trav\u00e9s del tiempo y el espacio.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "COMUNICACION SOCIAL",
+              "name": "COMUNICACION SOCIAL",
+              "link": "",
+              "img": "imgs/COMUNICACION SOCIAL.png",
+              "descripcion": "La disciplina que estudia las relaciones entre los cambios sociales y los cambios comunicativos",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "FILOSOFIA",
+              "name": "FILOSOFIA",
+              "link": "",
+              "img": "imgs/FILOSOFIA.png",
+              "descripcion": "La filosof\u00eda \u200b es el estudio de una variedad de problemas fundamentales acerca de cuestiones como la existencia, el conocimiento, la verdad, la moral, la belleza, la mente y el lenguaje.\u200b\u200b\u200b",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "GESTION CULTURAL",
+              "name": "GESTION CULTURAL",
+              "link": "",
+              "img": "imgs/GESTION CULTURAL.png",
+              "descripcion": "Se basa en el dise\u00f1o y puesta en marcha de proyectos que buscan atender problem\u00e1ticas y necesidades sociales a trav\u00e9s de la creaci\u00f3n de bienes culturales partiendo de la participaci\u00f3n y el aprendizaje colectivo, continuo y abierto de un sector de la poblaci\u00f3n determinado.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "HISTORIA",
+              "name": "HISTORIA",
+              "link": "",
+              "img": "imgs/HISTORIA.png",
+              "descripcion": "La historia es la ciencia que tiene como objetivo el estudio de sucesos del pasado, tradicionalmente de la humanidad\u200b, y como m\u00e9todo, el propio de las ciencias sociales/humanas, as\u00ed como el de las ciencias naturales en un marco de interdisciplinariedad.\u200b",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LENGUAS MODERNAS",
+              "name": "LENGUAS MODERNAS",
+              "link": "",
+              "img": "imgs/LENGUAS MODERNAS.png",
+              "descripcion": "Estudia y analisa el lenguaje. Esta carrera indaga sobre los los c\u00f3digos, elementos estructurales, modos de uso y de funcionamiento en espacios o situaciones concretas de interacci\u00f3n en el lenguaje.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "SOCIOLOGIA",
+              "name": "SOCIOLOGIA",
+              "link": "",
+              "img": "imgs/SOCIOLOGIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "TEOLOGIA",
+              "name": "TEOLOGIA",
+              "link": "",
+              "img": "imgs/TEOLOGIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "TRABAJO SOCIAL",
+              "name": "TRABAJO SOCIAL",
+              "link": "",
+              "img": "imgs/TRABAJO SOCIAL.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "CIENCIAS SOCIALES",
+          "name": "CIENCIAS SOCIALES",
+          "link": "",
+          "img": "imgs/CIENCIAS SOCIALES.png",
+          "descripcion": "CIENCIAS SOCIALES son carreras que se dedican al estudio y al an\u00e1lisis objetivo de los hechos que acontecen en la sociedad.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "BIBLIOTECOLOGIA",
+              "name": "BIBLIOTECOLOGIA",
+              "link": "",
+              "img": "imgs/BIBLIOTECOLOGIA.png",
+              "descripcion": "Es la disciplina encargada de la organizaci\u00f3n y administraci\u00f3n de las bibliotecas.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "CIENCIA POLITICA",
+              "name": "CIENCIA POLITICA",
+              "link": "",
+              "img": "imgs/CIENCIA POLITICA.png",
+              "descripcion": "Estudia la teor\u00eda y pr\u00e1ctica de la\u00a0pol\u00edtica, los\u00a0sistemas\u00a0y comportamientos pol\u00edticos en la sociedad.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "DERECHO",
+              "name": "DERECHO",
+              "link": "",
+              "img": "imgs/DERECHO.png",
+              "descripcion": "Conjunto de principios y normas, generalmente inspirados en ideas de\u00a0justicia\u00a0y\u00a0orden, que regulan las relaciones humanas en toda sociedad y cuya observancia es impuesta de forma\u00a0coactiva\u00a0por parte de un\u00a0poder p\u00fablico",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "PSICOLOGIA",
+              "name": "PSICOLOGIA",
+              "link": "",
+              "img": "imgs/PSICOLOGIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "RELACIONES INTERNACIONALES",
+              "name": "RELACIONES INTERNACIONALES",
+              "link": "",
+              "img": "imgs/RELACIONES INTERNACIONALES.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "SEGURIDAD Y SALUD EN EL TRABAJO",
+              "name": "SEGURIDAD Y SALUD EN EL TRABAJO",
+              "link": "",
+              "img": "imgs/SEGURIDAD Y SALUD EN EL TRABAJO.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "DISE\u00d1O",
+          "name": "DISE\u00d1O",
+          "link": "",
+          "img": "imgs/DISE\u00d1O.png",
+          "descripcion": "DISE\u00d1O son carreras que involucran variadas dimensiones que van m\u00e1s all\u00e1 del aspecto, la forma y el color, abarcando tambi\u00e9n la funci\u00f3n de un objeto y su interacci\u00f3n con el usuario.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "ARQUITECTURA",
+              "name": "ARQUITECTURA",
+              "link": "",
+              "img": "imgs/ARQUITECTURA.png",
+              "descripcion": "Es el\u00a0arte\u00a0y la\u00a0t\u00e9cnica\u00a0de\u00a0proyectar,\u00a0dise\u00f1ar\u00a0y\u00a0construir\u00a0edificios.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "DISE\u00d1O GRAFICO",
+              "name": "DISE\u00d1O GRAFICO",
+              "link": "",
+              "img": "imgs/DISE\u00d1O GRAFICO.png",
+              "descripcion": "El dise\u00f1o gr\u00e1fico es una profesi\u00f3n y disciplina acad\u00e9mica cuya actividad consiste en proyectar comunicaciones visuales destinadas a transmitir mensajes espec\u00edficos a grupos sociales, con objetivos determinados.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "DISE\u00d1O DE MODAS",
+              "name": "DISE\u00d1O DE MODAS",
+              "link": "",
+              "img": "imgs/DISE\u00d1O DE MODAS.png",
+              "descripcion": "El dise\u00f1o visual o dise\u00f1o en comunicaci\u00f3n visual es una disciplina profesional que estudia los sistemas de informaci\u00f3n, con el objeto de convertir los datos en formas visuales, teniendo en cuenta los procesos perceptivos",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "DISE\u00d1O INDUSTRIAL",
+              "name": "DISE\u00d1O INDUSTRIAL",
+              "link": "",
+              "img": "imgs/DISE\u00d1O INDUSTRIAL.png",
+              "descripcion": "El dise\u00f1o visual o dise\u00f1o en comunicaci\u00f3n visual es una disciplina profesional que estudia los sistemas de informaci\u00f3n, con el objeto de convertir los datos en formas visuales, teniendo en cuenta los procesos perceptivos",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "DISE\u00d1O VISUAL",
+              "name": "DISE\u00d1O VISUAL",
+              "link": "",
+              "img": "imgs/DISE\u00d1O VISUAL.png",
+              "descripcion": "El dise\u00f1o visual o dise\u00f1o en comunicaci\u00f3n visual es una disciplina profesional que estudia los sistemas de informaci\u00f3n, con el objeto de convertir los datos en formas visuales, teniendo en cuenta los procesos perceptivos",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CIENCIAS Y LICENCIATURAS",
+      "hero": "CIENCIAS Y LICENCIATURAS",
+      "img": "imgs/CIENCIAS Y LICENCIATURAS.png",
+      "size": 40000,
+      "descripcion": "CIENCIAS Y LICENCIATURAS son carreras que tienen un sistema ordenado de conocimientos estructurados que estudia, investiga e interpreta los fen\u00f3menos naturales, sociales y artificiales.",
+      "type": "area",
+      "children": [
+        {
+          "hero": "CIENCIA BASICAS",
+          "name": "CIENCIA BASICAS",
+          "link": "",
+          "img": "imgs/CIENCIA BASICAS.png",
+          "descripcion": "CIENCIAS B\u00c1SICAS son carreras que presentan la oportunidad de vivir desaf\u00edos intelectuales de manera constante, as\u00ed como el contribuir de manera significativa al desarrollo sostenible del planeta y la sociedad. Quienes se dedican a esta \u00e1rea deben presentar una buena formaci\u00f3n en ciencias b\u00e1sicas y la curiosidad, paciencia y perseverancia necesarias para enfrentarse a las preguntas que plantea el campo de trabajo.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "CIENCIAS DE LA COMPUTACION",
+              "name": "CIENCIAS DE LA COMPUTACION",
+              "link": "",
+              "img": "imgs/CIENCIAS DE LA COMPUTACION.png",
+              "descripcion": "Son las\u00a0ciencias formales\u00a0que abarcan las bases te\u00f3ricas de la\u00a0informaci\u00f3n\u00a0y la\u00a0computaci\u00f3n, as\u00ed como su aplicaci\u00f3n en\u00a0sistemas computacionales.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ESTADISTICA",
+              "name": "ESTADISTICA",
+              "link": "",
+              "img": "imgs/ESTADISTICA.png",
+              "descripcion": "Es la rama de las matem\u00e1ticas que estudia la variabilidad, as\u00ed como el proceso aleatorio que la genera siguiendo las leyes de la probabilidad.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "FISICA",
+              "name": "FISICA",
+              "link": "",
+              "img": "imgs/FISICA.png",
+              "descripcion": "La f\u00edsica \u200b es la ciencia natural que estudia los componentes fundamentales del Universo, la energ\u00eda, la materia, el espacio-tiempo y las interacciones fundamentales.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MATEMATICAS",
+              "name": "MATEMATICAS",
+              "link": "",
+              "img": "imgs/MATEMATICAS.png",
+              "descripcion": "Estudia las estructuras del pensamiento l\u00f3gico y matem\u00e1tico, propiedades y relaciones de los n\u00fameros y las figuras geom\u00e9tricas, as\u00ed como la interpretaci\u00f3n de la informaci\u00f3n cuantitativa.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "QUIMICA",
+              "name": "QUIMICA",
+              "link": "",
+              "img": "imgs/QUIMICA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "BACTERIOLOGIA",
+              "name": "BACTERIOLOGIA",
+              "link": "",
+              "img": "imgs/BACTERIOLOGIA.png",
+              "descripcion": "\u00a0Estudia la\u00a0morfolog\u00eda,\u00a0ecolog\u00eda,\u00a0etolog\u00eda,\u00a0gen\u00e9tica\u00a0y\u00a0bioqu\u00edmica\u00a0de los\u00a0procariotas\u00a0(bacterias\u00a0y\u00a0arqueas) as\u00ed como muchos otros aspectos relacionados con ellas.",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "CIENCIAS NATURALES Y AGROPECUARIAS",
+          "name": "CIENCIAS NATURALES Y AGROPECUARIAS",
+          "link": "",
+          "img": "imgs/CIENCIAS NATURALES Y AGROPECUARIAS.png",
+          "descripcion": "CIENCIAS NATURALES Y AGROPECUARIAS son aquellas carreras que tienen por objeto el estudio de la naturaleza siguiendo la modalidad del m\u00e9todo cient\u00edfico.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "AGRONOMIA",
+              "name": "AGRONOMIA",
+              "link": "",
+              "img": "imgs/AGRONOMIA.png",
+              "descripcion": "Es la ciencia cuyo objetivo es mejorar la calidad de los procesos de la producci\u00f3n y la transformaci\u00f3n de productos agr\u00edcolas y alimentarios.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "BIOLOGIA",
+              "name": "BIOLOGIA",
+              "link": "",
+              "img": "imgs/BIOLOGIA.png",
+              "descripcion": "\u00a0Estudia los procesos naturales\u200b de los\u00a0organismos vivos, considerando su\u00a0anatom\u00eda,\u00a0fisiolog\u00eda,\u00a0evoluci\u00f3n,\u00a0desarrollo,\u00a0distribuci\u00f3n\u00a0y\u00a0relaciones.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ECOLOGIA",
+              "name": "ECOLOGIA",
+              "link": "",
+              "img": "imgs/ECOLOGIA.png",
+              "descripcion": "La ecolog\u00eda es la rama de la biolog\u00eda que estudia las relaciones de los diferentes seres vivos entre s\u00ed y con su entorno: \u00abla biolog\u00eda de los ecosistemas\u00bb.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "GEOGRAFIA",
+              "name": "GEOGRAFIA",
+              "link": "",
+              "img": "imgs/GEOGRAFIA.png",
+              "descripcion": "La geograf\u00eda es la disciplina que trata de la descripci\u00f3n o de la representaci\u00f3n gr\u00e1fica de la Tierra.\u200b\u200b En sentido amplio es la ciencia que estudia la superficie terrestre, las sociedades que la habitan y los territorios, paisajes, lugares o regiones que la forman al relacionarse entre s\u00ed",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "GEOLOGIA",
+              "name": "GEOLOGIA",
+              "link": "",
+              "img": "imgs/GEOLOGIA.png",
+              "descripcion": "La geolog\u00eda \u200b\u200b es la ciencia natural que estudia la composici\u00f3n y estructura tanto interna como superficial del planeta Tierra, y los procesos por los cuales ha ido evolucionando a lo largo del tiempo geol\u00f3gico.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MEDICINA VETERINARIA",
+              "name": "MEDICINA VETERINARIA",
+              "link": "",
+              "img": "imgs/MEDICINA VETERINARIA.png",
+              "descripcion": "Estudia las caracter\u00edsticas fisiol\u00f3gicas de los animales, as\u00ed como las enfermedades que los afectan, su tratamiento y prevenci\u00f3n a trav\u00e9s de la erradicaci\u00f3n de par\u00e1sitos e infecciones.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ZOOTECNIA",
+              "name": "ZOOTECNIA",
+              "link": "",
+              "img": "imgs/ZOOTECNIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "LICENCIATURAS",
+          "name": "LICENCIATURAS",
+          "link": "",
+          "img": "imgs/LICENCIATURAS.png",
+          "descripcion": "LICENCIATURAS son carreras que capacitan a una persona para cumplir una serie de tareas en un \u00e1mbito determinado, para poder ejercer laboralmente.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "DEPORTES, EDUCACION FISICA Y RECREACION",
+              "name": "DEPORTES, EDUCACION FISICA Y RECREACION",
+              "link": "",
+              "img": "imgs/DEPORTES, EDUCACION FISICA Y RECREACION.png",
+              "descripcion": "\u00a0Ense\u00f1anza\u00a0y\u00a0aprendizaje\u00a0de\u00a0ejercicios f\u00edsicos\u00a0cuyo objetivo principal es la educaci\u00f3n y la\u00a0salud.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ENTRENAMIENTO DEPORTIVO",
+              "name": "ENTRENAMIENTO DEPORTIVO",
+              "link": "",
+              "img": "imgs/ENTRENAMIENTO DEPORTIVO.png",
+              "descripcion": "Es un programa que est\u00e1 dise\u00f1ado para formar profesionales en el campo de la disciplina f\u00edsica, con una alta calificaci\u00f3n en capacidades deportivas y acondicionamiento f\u00edsico",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LICENCIATURA EN EDUCACION BASICA PRIMARIA",
+              "name": "LICENCIATURA EN EDUCACION BASICA PRIMARIA",
+              "link": "",
+              "img": "imgs/LICENCIATURA EN EDUCACION BASICA PRIMARIA.png",
+              "descripcion": "Formar maestros para la atenci\u00f3n de ni\u00f1os y ni\u00f1as entre los 6 y 11 a\u00f1os, tanto en el contexto rural como urbano.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LICENCIATURA EN EDUCACION CON ESPECIALIDAD",
+              "name": "LICENCIATURA EN EDUCACION CON ESPECIALIDAD",
+              "link": "",
+              "img": "imgs/LICENCIATURA EN EDUCACION CON ESPECIALIDAD.png",
+              "descripcion": "\u00c1rea encargada de investigaci\u00f3n educativa. Realiza diagn\u00f3sticos del sistema educativo en sus diferentes niveles y desarrolla nuevas metodolog\u00edas, t\u00e9cnicas y recursos.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LICENCIATURA EN EDUCACION INFANTIL",
+              "name": "LICENCIATURA EN EDUCACION INFANTIL",
+              "link": "",
+              "img": "imgs/LICENCIATURA EN EDUCACION INFANTIL.png",
+              "descripcion": "Carrera enfocada en la gesti\u00f3n social como mecanismo para la inclusi\u00f3n y atenci\u00f3n de la infancia reconociendo la diversidad de los ni\u00f1os y ni\u00f1as y en atenci\u00f3n al mejoramiento de su calidad de vida.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LINGUISTICA",
+              "name": "LINGUISTICA",
+              "link": "",
+              "img": "imgs/LINGUISTICA.png",
+              "descripcion": "Analiza la situaci\u00f3n del espa\u00f1ol y otras lenguas en relaci\u00f3n con las lenguas ind\u00edgenas y aut\u00f3ctonas, as\u00ed como tambi\u00e9n las habilidades de comprensi\u00f3n y producci\u00f3n de textos especializados.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "LITERATURA",
+              "name": "LITERATURA",
+              "link": "",
+              "img": "imgs/LITERATURA.png",
+              "descripcion": "Aborda las estructuras y problem\u00e1ticas del idioma, as\u00ed como la historia, producci\u00f3n, corrientes del pensamiento te\u00f3rico y cr\u00edtica literaria de las obras fundamentales de la literatura universal.",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NEGOCIOS",
+      "hero": "NEGOCIOS",
+      "img": "imgs/NEGOCIOS.png",
+      "size": 40000,
+      "descripcion": "NEGOCIOS Y OTROS son carreras que identifican oportunidades de negocio, desarrollan productos y servicios diferenciados, dise\u00f1an una organizaci\u00f3n, aprenden a conducirla, se toma decisiones estrat\u00e9gicas para hacerla crecer y generar beneficios econ\u00f3micos a los inversionistas que ponen su dinero en ella.",
+      "type": "area",
+      "children": [
+        {
+          "hero": "CIENCIAS ECONOMICAS Y ADMINISTRATIVAS",
+          "name": "CIENCIAS ECONOMICAS Y ADMINISTRATIVAS",
+          "link": "",
+          "img": "imgs/CIENCIAS ECONOMICAS Y ADMINISTRATIVAS.png",
+          "descripcion": "CIENCIAS ECON\u00d3MICAS Y ADMINISTRATIVAS son carreras que proporcionan las t\u00e9cnicas y herramientas para una correcta organizaci\u00f3n, direcci\u00f3n y control de todos esos recursos, que van desde los financieros, materiales, tecnol\u00f3gicos, hasta, muy importantes, los humanos.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "ADMINISTRACION DE EMPRESAS",
+              "name": "ADMINISTRACION DE EMPRESAS",
+              "link": "",
+              "img": "imgs/ADMINISTRACION DE EMPRESAS.png",
+              "descripcion": "Es la ciencia encargada de la\u00a0planificaci\u00f3n, organizaci\u00f3n, direcci\u00f3n y control\u00a0de los recursos de una organizaci\u00f3n",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "COMERCIO INTERNACIONAL",
+              "name": "COMERCIO INTERNACIONAL",
+              "link": "",
+              "img": "imgs/COMERCIO INTERNACIONAL.png",
+              "descripcion": "Movimiento que tienen los bienes y servicios a trav\u00e9s de los distintos pa\u00edses y sus mercados.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "CONTADURIA PUBLICA",
+              "name": "CONTADURIA PUBLICA",
+              "link": "",
+              "img": "imgs/CONTADURIA PUBLICA.png",
+              "descripcion": "Disciplina que tiene como prop\u00f3sito la medici\u00f3n, registro e interpretaci\u00f3n del capital de una organizaci\u00f3n\u00a0p\u00fablica\u00a0o privada.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "ECONOMIA",
+              "name": "ECONOMIA",
+              "link": "",
+              "img": "imgs/ECONOMIA.png",
+              "descripcion": "La econom\u00eda es la ciencia social que estudia: La extracci\u00f3n, producci\u00f3n, intercambio, distribuci\u00f3n y consumo de bienes y servicios; La forma o medios de satisfacer las necesidades humanas ilimitadas mediante recursos limitados; La forma en la que las personas y sociedades sobreviven, prosperan y funcionan.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "FINANZAS Y NEGOCIOS INTERNACIONALES",
+              "name": "FINANZAS Y NEGOCIOS INTERNACIONALES",
+              "link": "",
+              "img": "imgs/FINANZAS Y NEGOCIOS INTERNACIONALES.png",
+              "descripcion": "Un profesional en Finanzas y negocios internacionales es capaz de evaluar los entornos nacionales e internacionales, comparando con exactitud los ambientes y \u00e1mbitos pol\u00edticos, econ\u00f3micos, sociales, culturales que intervienen en la din\u00e1mica de los mercados",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "HOTELERIA Y TURISMO",
+              "name": "HOTELERIA Y TURISMO",
+              "link": "",
+              "img": "imgs/HOTELERIA Y TURISMO.png",
+              "descripcion": "Analiza las tendencias y la evoluci\u00f3n de turismo en diferentes regiones del pa\u00eds, eval\u00faa las ofertas de planes y lugares tur\u00edsticos m\u00e1s visitados, estudia proyectos de inversi\u00f3n hotelera",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "MERCADEO",
+              "name": "MERCADEO",
+              "link": "",
+              "img": "imgs/MERCADEO.png",
+              "descripcion": "El Mercadeo forma profesionales capaces de comprender las necesidades del mercado para orientar a una empresa o una organizaci\u00f3n en sus estrategias comerciales.",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INGENIERIAS",
+      "hero": "INGENIERIAS",
+      "img": "imgs/INGENIERIAS.png",
+      "size": 40000,
+      "descripcion": "INGENIERIAS son carreras que expanden los conocimientos cient\u00edficos y tecnol\u00f3gicos para la innovaci\u00f3n, invenci\u00f3n, desarrollo y mejora de t\u00e9cnicas y herramientas para satisfacer las necesidades y resolver problemas tanto de las personas, as\u00ed como de la sociedad.",
+      "type": "area",
+      "children": [
+        {
+          "hero": "INGENIERIAS ADMINISTRATIVAS",
+          "name": "INGENIERIAS ADMINISTRATIVAS",
+          "link": "",
+          "img": "imgs/INGENIERIAS ADMINISTRATIVAS.png",
+          "descripcion": "INGENIERIAS ADMINISTRATIVAS son carreras que se ocupan de la Gesti\u00f3n de cualquier proceso dentro de la vida de las organizaciones, con el objetivo de tener una organizaci\u00f3n rentable econ\u00f3micamente o cumpliendo los objetivos sociales. Los ingenieros administradores gestionan los diferentes recursos sean tangibles o intangibles.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "INGENIERIA ADMINISTRATIVA",
+              "name": "INGENIERIA ADMINISTRATIVA",
+              "link": "",
+              "img": "imgs/INGENIERIA ADMINISTRATIVA.png",
+              "descripcion": "Es una rama de la ingenier\u00eda que se ocupa de la gesti\u00f3n de cualquier proceso dentro de la vida de las organizaciones, con el objetivo de tener una organizaci\u00f3n rentable o para cumplir objetivos sociales",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA AGROFORESTAL",
+              "name": "INGENIERIA AGROFORESTAL",
+              "link": "",
+              "img": "imgs/INGENIERIA AGROFORESTAL.png",
+              "descripcion": "Disciplina que propicia la productividad, el manejo adecuado y racional del suelo y del territorio empleando t\u00e9cnicas y conocimientos ancestrales con las novedades cient\u00edficas.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA AGRONOMICA",
+              "name": "INGENIERIA AGRONOMICA",
+              "link": "",
+              "img": "imgs/INGENIERIA AGRONOMICA.png",
+              "descripcion": "Conjunto de conocimientos en ciencia y tecnolog\u00eda utilizados en la pr\u00e1ctica agr\u00edcola, producci\u00f3n de alimentos, energ\u00eda, fibras, la restauraci\u00f3n de los suelos y en el cuidado de los ecosistemas.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA AMBIENTAL",
+              "name": "INGENIERIA AMBIENTAL",
+              "link": "",
+              "img": "imgs/INGENIERIA AMBIENTAL.png",
+              "descripcion": "Rama de la ingenier\u00eda que aporta al control, cuidado y prevenci\u00f3n del deterioro y el uso de los recursos naturales realizados por compa\u00f1\u00edas dedicadas a la explotaci\u00f3n.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA DE ALIMENTOS",
+              "name": "INGENIERIA DE ALIMENTOS",
+              "link": "",
+              "img": "imgs/INGENIERIA DE ALIMENTOS.png",
+              "descripcion": "Rama de la ingenier\u00eda que garantiza la obtenci\u00f3n de alimentos de buena calidad nutricional y de la m\u00e1s alta eficiencia de manufactura al menor precio posible.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA FORESTAL",
+              "name": "INGENIERIA FORESTAL",
+              "link": "",
+              "img": "imgs/INGENIERIA FORESTAL.png",
+              "descripcion": "Su objetivo objetivo es conservar y hacer que empresas y personas hagan uso adecuado de los bosques, plantas, arboles, suelos, agua y fauna, haciendo monitoreo y estudios de bosques y vida vegetal.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA INDUSTRIAL",
+              "name": "INGENIERIA INDUSTRIAL",
+              "link": "",
+              "img": "imgs/INGENIERIA INDUSTRIAL.png",
+              "descripcion": "Estudia los modelos y sistemas de cultura organizacional, administraci\u00f3n de procesos, dise\u00f1o, operaci\u00f3n de sistemas industriales cuya funci\u00f3n es la producci\u00f3n \u00f3ptima de bienes y servicios.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA MECANICA",
+              "name": "INGENIERIA MECANICA",
+              "link": "",
+              "img": "imgs/INGENIERIA MECANICA.png",
+              "descripcion": "Estudia el c\u00e1lculo, fabricaci\u00f3n, montaje, operaci\u00f3n y conservaci\u00f3n de elementos, m\u00e1quinas, equipos, instalaciones y sistemas mec\u00e1nicos, que se emplean en la industria",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "INGENIERIAS COMPUTACIONALES",
+          "name": "INGENIERIAS COMPUTACIONALES",
+          "link": "",
+          "img": "imgs/INGENIERIAS COMPUTACIONALES.png",
+          "descripcion": "INGENIER\u00cdAS COMPUTACIONALES son carreras que estudian el desarrollo de sistemas automatizados y el uso de los lenguajes de programaci\u00f3n; de igual forma se enfoca al an\u00e1lisis, dise\u00f1o y la utilizaci\u00f3n del hardware y software para lograr la implementaci\u00f3n de las m\u00e1s avanzadas aplicaciones industriales, telem\u00e1ticas y cient\u00edficas.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "INGENIERIA AGROINDUSTRIAL",
+              "name": "INGENIERIA AGROINDUSTRIAL",
+              "link": "",
+              "img": "imgs/INGENIERIA AGROINDUSTRIAL.png",
+              "descripcion": "Rama de la ingenier\u00eda que estudia la transformaci\u00f3n de materias primas de origen animal o vegetal; manejo, conservaci\u00f3n y optimizaci\u00f3n de los recursos para fomentar el crecimiento.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA BIOMEDICA",
+              "name": "INGENIERIA BIOMEDICA",
+              "link": "",
+              "img": "imgs/INGENIERIA BIOMEDICA.png",
+              "descripcion": "Se dedica al dise\u00f1o y construcci\u00f3n de productos y tecnolog\u00edas m\u00e9dicas, como equipos m\u00e9dicos, pr\u00f3tesis, dispositivos de diagn\u00f3stico y de terapia.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA CIVIL",
+              "name": "INGENIERIA CIVIL",
+              "link": "",
+              "img": "imgs/INGENIERIA CIVIL.png",
+              "descripcion": "Rama de la ingenier\u00eda que aborda el dise\u00f1o, direcci\u00f3n, construcci\u00f3n y mantenimiento de obras de infraestructura p\u00fablica, v\u00edas, edificaciones, transporte, ordenamiento urbano y adecuaci\u00f3n de terrenos.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA DE SISTEMAS",
+              "name": "INGENIERIA DE SISTEMAS",
+              "link": "",
+              "img": "imgs/INGENIERIA DE SISTEMAS.png",
+              "descripcion": "Rama de la ingenier\u00eda encargada del procesamiento de informaci\u00f3n, acceso r\u00e1pido, procesos seguros y operatividad de procesos en las compa\u00f1\u00edas mediante los sistemas y la tecnolog\u00eda.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA DE TELECOMUNICACIONES",
+              "name": "INGENIERIA DE TELECOMUNICACIONES",
+              "link": "",
+              "img": "imgs/INGENIERIA DE TELECOMUNICACIONES.png",
+              "descripcion": "Rama de la ingenier\u00eda que dise\u00f1a, implementa y gestiona sistemas de telecomunicaciones como la radio, la televisi\u00f3n, el tel\u00e9fono, las comunicaciones de datos y las redes inform\u00e1ticas.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA ELECTROMECANICA",
+              "name": "INGENIERIA ELECTROMECANICA",
+              "link": "",
+              "img": "imgs/INGENIERIA ELECTROMECANICA.png",
+              "descripcion": "Rama de la ingenier\u00eda que estudia los procesos de dise\u00f1o, desarrollo, manufactura y mantenimiento de sistemas y dispositivos electromec\u00e1nicos.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA ELECTRONICA",
+              "name": "INGENIERIA ELECTRONICA",
+              "link": "",
+              "img": "imgs/INGENIERIA ELECTRONICA.png",
+              "descripcion": "Rama de la ingenier\u00eda que estudia sistemas el\u00e9ctricos donde se manejan bajas corrientes, tensiones el\u00e9ctricas usadas en funci\u00f3n de control, comunicaci\u00f3n, inform\u00e1tica y transducci\u00f3n electromagn\u00e9tica.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA EN ENERGIA",
+              "name": "INGENIERIA EN ENERGIA",
+              "link": "",
+              "img": "imgs/INGENIERIA EN ENERGIA.png",
+              "descripcion": "Rama de la ingenier\u00eda que gestiona proyectos relacionados con el ciclo de producci\u00f3n de la energ\u00eda, desde el proceso de generaci\u00f3n, transporte y distribuci\u00f3n de energ\u00eda, hasta la comercializaci\u00f3n.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA INFORMATICA",
+              "name": "INGENIERIA INFORMATICA",
+              "link": "",
+              "img": "imgs/INGENIERIA INFORMATICA.png",
+              "descripcion": "Ingenier\u00eda encargada del desarrollo de software, gesti\u00f3n de Sistemas de Informaci\u00f3n para empresas y gesti\u00f3n de infraestructura inform\u00e1tica y redes.",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "hero": "INGENIERIAS RELACIONADAS A LA CIENCIA",
+          "name": "INGENIERIAS RELACIONADAS A LA CIENCIA",
+          "link": "",
+          "img": "imgs/INGENIERIAS RELACIONADAS A LA CIENCIA.png",
+          "descripcion": "INGENIER\u00cdAS RELACIONADAS A LA CIENCIA son carreras que trabajan en la vanguardia de la innovaci\u00f3n, liderando los desaf\u00edos tecnol\u00f3gicos a los que se ver\u00e1 sometida la industria y la econom\u00eda en el futuro inmediato.",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "INGENIERIA AERONAUTICA",
+              "name": "INGENIERIA AERONAUTICA",
+              "link": "",
+              "img": "imgs/INGENIERIA AERONAUTICA.png",
+              "descripcion": "Rama de la ingenier\u00eda donde se aplica la ciencia y la tecnolog\u00eda para la investigaci\u00f3n, dise\u00f1o, fabricaci\u00f3n y mantenimiento de aeronaves, misiles, sat\u00e9lites y veh\u00edculos espaciales.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA AGRICOLA",
+              "name": "INGENIERIA AGRICOLA",
+              "link": "",
+              "img": "imgs/INGENIERIA AGRICOLA.png",
+              "descripcion": "Rama de la ingenier\u00eda encargada de la adecuaci\u00f3n del medio para la producci\u00f3n agropecuaria, desarrollando y aplicando la ciencia y la tecnolog\u00eda en los procesos de explotaci\u00f3n y producci\u00f3n agr\u00edcola.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA ELECTRICA",
+              "name": "INGENIERIA ELECTRICA",
+              "link": "",
+              "img": "imgs/INGENIERIA ELECTRICA.png",
+              "descripcion": "Rama de la ingenier\u00eda encargada del uso de las fuentes de energ\u00eda, los elementos y procesos que se requieren para la generaci\u00f3n, transporte, distribuci\u00f3n y consumo de la energ\u00eda el\u00e9ctrica.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA EN MINAS",
+              "name": "INGENIERIA EN MINAS",
+              "link": "",
+              "img": "imgs/INGENIERIA EN MINAS.png",
+              "descripcion": "Aborda la exploraci\u00f3n, extracci\u00f3n y transporte de los recursos minerales y metal\u00fargicos. Tambi\u00e9n realiza los tratamientos adecuados a los minerales procurando el menor da\u00f1o posible al medio ambiente.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA MECATRONICA",
+              "name": "INGENIERIA MECATRONICA",
+              "link": "",
+              "img": "imgs/INGENIERIA MECATRONICA.png",
+              "descripcion": "Ingenier\u00eda encargada de dise\u00f1ar e innovar en nuevas tecnolog\u00edas para el control y la automatizaci\u00f3n de procesos inteligentes utilizando la electr\u00f3nica y la mec\u00e1nica computarizada.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INGENIERIA QUIMICA",
+              "name": "INGENIERIA QUIMICA",
+              "link": "",
+              "img": "imgs/INGENIERIA QUIMICA.png",
+              "descripcion": "Se especializa en optimizar procesos y transformaciones qu\u00edmicas, f\u00edsicas y bioqu\u00edmicas de minerales y materias primas para ser utilizadas en procesos de producci\u00f3n.",
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OTROS",
+      "hero": "OTROS",
+      "img": "imgs/OTROS.png",
+      "size": 40000,
+      "descripcion": "NEGOCIOS Y OTROS son carreras que identifican oportunidades de negocio, desarrollan productos y servicios diferenciados, dise\u00f1an una organizaci\u00f3n, aprenden a conducirla, se toma decisiones estrat\u00e9gicas para hacerla crecer y generar beneficios econ\u00f3micos a los inversionistas que ponen su dinero en ella.",
+      "type": "area",
+      "children": [
+        {
+          "hero": "SEGURIDAD",
+          "name": "SEGURIDAD",
+          "link": "",
+          "img": "imgs/SEGURIDAD.png",
+          "descripcion": "SEGURIDAD son carreras que estudian las t\u00e9cnicas de investigaci\u00f3n de delitos, de prevenci\u00f3n de ellos y de los marcos judiciales que les corresponden. En estas carreras se incorporan conocimientos vastos sobre c\u00f3digos penales, sobre formas de identificaci\u00f3n de las personas involucradas, control de las situaciones y sobre el uso racional de la fuerza y responsable de las armas. ",
+          "type": "area",
+          "size": 40000,
+          "children": [
+            {
+              "hero": "CIENCIAS MILITARES",
+              "name": "CIENCIAS MILITARES",
+              "link": "",
+              "img": "imgs/CIENCIAS MILITARES.png",
+              "descripcion": "Estudio de la\u00a0t\u00e9cnica,\u00a0psicolog\u00eda, pr\u00e1ctica y otros fen\u00f3menos que constituyen la\u00a0guerra\u00a0y el\u00a0conflicto social\u00a0armado.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "INVESTIGACION CRIMINAL",
+              "name": "INVESTIGACION CRIMINAL",
+              "link": "",
+              "img": "imgs/INVESTIGACION CRIMINAL.png",
+              "descripcion": "Carrera con formaci\u00f3n en la soluci\u00f3n de los problemas criminal\u00edsticos, la lucha contra la injusticia, la impunidad y cualquier forma de crimen, a trav\u00e9s de la aplicaci\u00f3n de las ciencias forenses.",
+              "type": "carrera",
+              "size": 40000
+            },
+            {
+              "hero": "SERVICIO DE POLICIA",
+              "name": "SERVICIO DE POLICIA",
+              "link": "",
+              "img": "imgs/SERVICIO DE POLICIA.png",
+              "descripcion": 0,
+              "type": "carrera",
+              "size": 40000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
